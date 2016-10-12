@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1476282990 source:c:\users\pc01\desktop\modelo parcial\main.cpp
+	"Blog.h"
+	<cstdlib>
+
+1476275215 source:c:\users\pc01\desktop\modelo parcial\comentario.cpp
+	"Comentario.h"
+
+1476278505 c:\users\pc01\desktop\modelo parcial\comentario.h
+	<string>
+
+1476280776 source:c:\users\pc01\desktop\modelo parcial\articulo.cpp
+	"Articulo.h"
+
+1476280378 c:\users\pc01\desktop\modelo parcial\articulo.h
+	"lista.h"
+	"Comentario.h"
+	<iostream>
+
+1476278801 c:\users\pc01\desktop\modelo parcial\lista.h
+	"nodo.h"
+
+1476278753 c:\users\pc01\desktop\modelo parcial\nodo.h
+	<cstddef>
+
+1476282741 source:c:\users\pc01\desktop\modelo parcial\blog.cpp
+	"Blog.h"
+
+1476281137 c:\users\pc01\desktop\modelo parcial\blog.h
+	"Articulo.h"
+
